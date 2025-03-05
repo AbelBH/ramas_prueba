@@ -2,7 +2,7 @@
 {
     public class Clase
     {
-        public void GenerateCredentials(int value)
+        public void GenerateCredentials(string value)
         {
             Console.WriteLine(value);
         }
