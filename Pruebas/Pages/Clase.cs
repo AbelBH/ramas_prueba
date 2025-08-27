@@ -4,7 +4,7 @@
     {
         public void GenerateCredentials(string value)
         {
-            int i = 0;
+            int i = 1;
             Console.WriteLine(value);
         }
     }
